@@ -11,7 +11,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={styles.text}>Hello Julia how are you today!</Text>
-        <Text style={styles.text}>This is an Android app.</Text>
+        <Text style={styles.text}>This is an Android app hello.</Text>
         <Text style={styles.text}>Made using react native.</Text>
 	<Button
   		onPress={this.onPressLearnMore}
